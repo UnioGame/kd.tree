@@ -28,7 +28,7 @@ SOFTWARE.
 using System.Collections.Generic;
 using System;
 
-namespace DataStructures.ViliWonka.KDTree {
+namespace UnioGame.KDTree {
     using Unity.Mathematics;
 
 #if ENABLE_IL2CPP

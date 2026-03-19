@@ -25,7 +25,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DataStructures.ViliWonka.Tests {
+namespace UnioGame.Tests {
 
     public class HeapTests : MonoBehaviour {
 

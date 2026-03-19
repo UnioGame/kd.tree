@@ -27,7 +27,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-namespace DataStructures.ViliWonka.KDTree {
+namespace UnioGame.KDTree {
 
     public partial class KDQuery {
 

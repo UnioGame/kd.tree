@@ -24,7 +24,7 @@ SOFTWARE.
 using UnityEngine;
 using UnityEditor;
 
-namespace DataStructures.ViliWonka.KDTree {
+namespace UnioGame.KDTree {
 
 #if ENABLE_IL2CPP
     using Unity.IL2CPP.CompilerServices;

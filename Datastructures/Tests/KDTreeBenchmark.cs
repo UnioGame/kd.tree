@@ -27,7 +27,7 @@ using System.Diagnostics;
 using UnityEngine;
 using Debug = UnityEngine.Debug;
 
-namespace DataStructures.ViliWonka.Tests {
+namespace UnioGame.Tests {
     using Unity.Mathematics;
     using Random = UnityEngine.Random;
 

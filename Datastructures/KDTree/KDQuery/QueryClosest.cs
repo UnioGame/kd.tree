@@ -25,7 +25,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-namespace DataStructures.ViliWonka.KDTree {
+namespace UnioGame.KDTree {
 
     using Heap;
     using Unity.Mathematics;

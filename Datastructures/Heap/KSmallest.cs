@@ -23,7 +23,7 @@ SOFTWARE.
 
 using System.Collections.Generic;
 
-namespace DataStructures.ViliWonka.Heap {
+namespace UnioGame.Heap {
 
 #if ENABLE_IL2CPP
     using Unity.IL2CPP.CompilerServices;

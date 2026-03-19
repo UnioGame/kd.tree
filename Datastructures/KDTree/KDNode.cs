@@ -25,7 +25,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DataStructures.ViliWonka.KDTree {
+namespace UnioGame.KDTree {
 
 #if ENABLE_IL2CPP
     using Unity.IL2CPP.CompilerServices;
